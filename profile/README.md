@@ -6,21 +6,8 @@ The core verification infrastructure powering independent fact-checking for the 
 
 CapCheck.ai houses the technical infrastructure that powers the nonprofit's educational tools and research initiatives. We're building the verification platform that enables media literacy education and advances fact-checking research.
 
-**Operated by:** CapCheck (501c3 nonprofit)  
+**Operated by:** CapCheck (501c3 nonprofit)
 **Purpose:** Support education and research in media literacy and fact-checking  
-**License:** AGPL-3.0 (open source, protects educational mission)
-
-## Our Repositories
-
-### Platform Core
-- **[api](https://github.com/capcheck-ai/platform)** - GraphQL API and verification engine
-
-## Current Architecture
-
-- **Backend:** Hasura GraphQL, PostgreSQL
-- **Verification:** Claude Sonnet 4.5 (primary), Claude Haiku (lightweight tasks)
-- **Content Processing:** OpenAI Whisper (audio/video), Brave Search
-- **Cost:** ~$0.0075 per verification in production
 
 ## Future Direction
 
@@ -39,27 +26,15 @@ We're pivoting to smaller, custom-trained models based on the principle that **t
 curl https://api.capcheck.ai/v1/keys -d '{"email":"you@example.com"}'
 ```
 
-**Documentation:** (coming soon)  
-**API Status:** (coming soon)  
+**Documentation:** (coming soon)
+**API Status:** (coming soon)
 **Contact:** aaron@capcheck.ai
-
-## Contributing
-
-All infrastructure is open source to advance fact-checking research. We welcome:
-
-- Performance optimizations and efficiency improvements
-- Novel verification approaches and methodologies
-- Research-validated model improvements
-- Educational use case integrations
-- Bug fixes and documentation
-
-Check individual repos for contribution guidelines.
 
 ## Links
 
-- 🌐 **Nonprofit:** [capcheck.org](https://capcheck.org)
+- 🌐 **CapCheck AI:** [capcheck.ai](https://capcheck.ai)
 - 📧 **Email:** aaron@capcheck.ai
 
 ---
 
-*Built in the open by CapCheck 501(c)(3) for education and research. Platform access supports our nonprofit mission.*
+*Built in the open by CapCheck 501(c)(3).*
