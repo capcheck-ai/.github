@@ -32,7 +32,7 @@ curl https://api.capcheck.ai/v1/keys -d '{"email":"you@example.com"}'
 
 ## Links
 
-- 🌐 **CapCheck AI:** [capcheck.ai](https://capcheck.ai)
+- 🌐 **CapCheck:** [capcheck.ai](https://capcheck.ai)
 - 📧 **Email:** aaron@capcheck.ai
 
 ---
