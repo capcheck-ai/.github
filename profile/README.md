@@ -6,8 +6,8 @@ The core verification infrastructure powering independent fact-checking for the 
 
 CapCheck.ai houses the technical infrastructure that powers the nonprofit's educational tools and research initiatives. We're building the verification platform that enables media literacy education and advances fact-checking research.
 
-**Operated by:** CapCheck (501c3 nonprofit)
-**Purpose:** Support education and research in media literacy and fact-checking  
+**Operated by:** CapCheck Foundation (nonprofit)
+**Purpose:** Support education and research in media literacy and fact-checking
 
 ## Future Direction
 
@@ -32,9 +32,11 @@ curl https://api.capcheck.ai/v1/keys -d '{"email":"you@example.com"}'
 
 ## Links
 
+- 🌄 **ViT Model on HuggingFace** [https://huggingface.co/capcheck/ai-image-detection](https://huggingface.co/capcheck/ai-image-detection)
 - 🌐 **CapCheck:** [capcheck.ai](https://capcheck.ai)
 - 📧 **Email:** aaron@capcheck.ai
+- 🫱🏼‍🫲🏽 **CapCheck Foundation:** [capcheck.org](https://capcheck.org)
 
 ---
 
-*Built in the open by CapCheck 501(c)(3).*
+*Built in the open by CapCheck, by CapCheck Foundation.*
